@@ -1,0 +1,9 @@
+## Interface: 11404
+## Title: PortalInviter
+## Notes: Portal selling automation
+## Author: ybrogu
+## Version: 0.1
+## SavedVariables: PortalInviterDB
+
+embeds.xml
+main.lua
