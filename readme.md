@@ -60,7 +60,7 @@
 
 ## Known Limitations
 
-- **Cannot fully automate trades or spell casting** due to Blizzard’s security restrictions. The user must click secure action buttons or confirm trades manually.
+- **Cannot fully automate trades or spell casting YET** due to Blizzard’s security restrictions. The user must click secure action buttons or confirm trades manually.
 - Zone detection uses `/who`, which may be throttled or unavailable for cross-realm players.
 
 ---
